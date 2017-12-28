@@ -1,10 +1,6 @@
 ### Required
 
 [Docker](https://docker.com)
-```
-$ curl -sSL https://get.docker.com/ | sh
-```
-
 [Expo](https://expo.io/learn)
 
 ### Getting Started

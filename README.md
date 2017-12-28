@@ -10,6 +10,8 @@ $ curl -sSL https://get.docker.com/ | sh
 ```
 $ git clone https://github.com/raivieiraadriano92/app-react-native.git
 $ cd app-react-native/
-$ docker-compose up -d && docker-compose exec app bash
+$ docker-compose up -d
+$ docker-compose exec app bash
+$ npm install
 $ exp start
 ```

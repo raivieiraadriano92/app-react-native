@@ -1,6 +1,7 @@
 ### Required
 
 [Docker](https://docker.com)
+
 [Expo](https://expo.io/learn)
 
 ### Getting Started
